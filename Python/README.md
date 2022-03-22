@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# Python
+# Python Submission Page
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" width="125"> 
   
