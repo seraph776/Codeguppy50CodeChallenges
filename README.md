@@ -51,8 +51,8 @@ These are 50 coding challenges from [Codeguppy.com ](https://codeguppy.com/)
 
 
 | Python      | JavaScript  | CPP          |
-| :---        |    :----:   |     :---:    |
-| [challenges](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/code/Python/python-question-answer.md)   | [challenges](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/code/JavaScript/javascript-questions-answers.md)        |[challenges](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/code/cpp/cpp-questions-answers.md)     |
+|     :---:   |    :----:   |     :---:    |
+| [Submission Page](https://github.com/seraph776/Codeguppy-50-Code-Challenges/tree/main/Python)   | [Submission Page](https://github.com/seraph776/Codeguppy-50-Code-Challenges/tree/main/JavaScript) |[Submission Page](https://github.com/seraph776/Codeguppy-50-Code-Challenges/tree/main/CPP)     |
 
 
 
