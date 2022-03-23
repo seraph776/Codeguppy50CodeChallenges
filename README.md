@@ -15,7 +15,7 @@
   
 ### 50 Code Challenges  
   
-🎁[Contribute](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md) · 🐛[Report Bug](https://github.com/seraph776/Codeguppy-50-Code-Challenges/issues) ·📫 [Contact me](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)  
+🎁[Contribute](https://github.com/seraph776/Codeguppy50CodeChallenges/blob/main/docs/CONTRIBUTING.md) · 🐛[Report Bug](https://github.com/seraph776/Codeguppy-50-Code-Challenges/issues) ·📫 [Contact me](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)  
  
 Show your support and give this repo a ⭐ 
 
@@ -43,7 +43,7 @@ Show your support and give this repo a ⭐
 
 This repo is collection of code challenges from [Codeguppy.com ](https://codeguppy.com/)
 
-- The complete list of Code Questions can be found [here](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/QUESTIONS.md).  
+- The complete list of Code Questions can be found [here](https://github.com/seraph776/Codeguppy50CodeChallenges/blob/main/docs/QUESTIONS.md).  
 - Although the questions intended for beginners - advanced users can have fun too
 - If you would like to contribute, any solution that you submit is a good solution... It does not have to be a perfect solution
 - The challenges are designed to be solved with either `Python`, `JavaScript`, or `CPP` language constructs
@@ -57,7 +57,7 @@ This repo is collection of code challenges from [Codeguppy.com ](https://codegup
 
 <h2 id="contribute">  🎁 Contribute </h2>
 
-Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md).
+Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines](https://github.com/seraph776/Codeguppy50CodeChallenges/blob/main/docs/CONTRIBUTING.md).
 
 
 
