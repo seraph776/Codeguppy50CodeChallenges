@@ -15,7 +15,7 @@
   
 ### 50 Code Challenges  
   
-👩‍❤️‍💋‍👨[Contribute](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md) · 🐛[Report Bug](https://github.com/seraph776/Codeguppy-50-Code-Challenges/issues) ·📫 [Contact me](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)  
+🎁[Contribute](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md) · 🐛[Report Bug](https://github.com/seraph776/Codeguppy-50-Code-Challenges/issues) ·📫 [Contact me](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)  
  
 Show your support and give this repo a ⭐ 
 
@@ -56,7 +56,7 @@ These are 50 coding challenges from [Codeguppy.com ](https://codeguppy.com/)
 
 
 
-<h2 id="contribute">  🤝 Contribute </h2>
+<h2 id="contribute">  🎁 Contribute </h2>
 
 Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md).
 
