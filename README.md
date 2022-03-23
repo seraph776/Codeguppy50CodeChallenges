@@ -2,8 +2,6 @@
 
 # Codeguppy
 
-
-![made-with-Python](https://img.shields.io/badge/Python-800020?&logo=python&logoColor=white&labelColor=black&label=Built%20with&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/Codeguppy-50-Code-Challenges?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/seraph776/Codeguppy-50-Code-Challenges?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/seraph776/Codeguppy-50-Code-Challenges?color=blue&style=for-the-badge)
@@ -17,7 +15,7 @@
   
 ### 50 Code Challenges  
   
-🔎[View Demo](https://github.com/seraph776/Codeguppy-50-Code-Challenges#screenshot) · 🐛[Report Bug](https://github.com/seraph776/Codeguppy-50-Code-Challenges/issues) ·📫 [Contact me](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)  
+👩‍❤️‍💋‍👨[Contribute](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md) · 🐛[Report Bug](https://github.com/seraph776/Codeguppy-50-Code-Challenges/issues) ·📫 [Contact me](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)  
  
 Show your support and give this repo a ⭐ 
 
