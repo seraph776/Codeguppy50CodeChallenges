@@ -6,7 +6,7 @@ Read our [Code of Conduct](https://github.com/seraph776/CtCI-Python-Edition/blob
 
 ## New contributor guide
 
-To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
+To get an overview of the project, read the [README](https://github.com/seraph776/Codeguppy50CodeChallenges). Here are some resources to help you get started with open source contributions:
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
@@ -21,18 +21,26 @@ To navigate our codebase with confidence, see [the introduction to working in th
 
 ## 🛠️ Submission Requirments
 
-- ✅ Save filenames in the follow format: q001, q002 (INCLIDING FILENAME EXTENTION)
+- ✅ Save files in the `correct programming language directory, inside a your `username` directory.
+- ✅ Please fill-out and include the [SAMPLE-README.md](https://github.com/seraph776/Codeguppy50CodeChallenges/blob/main/docs/SAMPLE-README.md)  file inside your `username` root directory. 
+- ✅ Save filenames in the follow format: q001, q002 (INCLUDING FILENAME EXTENTION)
 - ✅ Submissions do not have to be in sequencial order. Meaning, you can submit q030, then q001, It doesn't matter.
-- ✅ Save files in the `correct programming language directory, inside a your `username` directory. For example:
+- ✅ `Optional Task`: Include `tests` to prove that your program works. Include your unittests in sub-dirctory within your `username` dirctory called `tests`. Again, this is an optional task. See the dirctory structure below for an example.
 
 ### Directory Structure
 
 ```
 Python/
 ├─ your_username/
+|  ├─ tests/
+|  |  ├─ test_q001.py
+|  |  ├─ test_q025.py
+|  |  ├─ test_q051.py
+|  |
 │  ├─ q001.py
 │  ├─ q025.py
 │  ├─ q051.py
+│  ├─ README.md
 │ 
 Javascript/
 ├─ your_username/
@@ -41,6 +49,8 @@ Javascript/
 │  ├─ q003.py
 
 ```
+- ✅ If you like, you can Inlucde a 
+
 ✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
 
 
