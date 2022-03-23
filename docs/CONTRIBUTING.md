@@ -49,7 +49,6 @@ Javascript/
 │  ├─ q003.py
 
 ```
-- ✅ If you like, you can Inlucde a 
 
 ✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
 
