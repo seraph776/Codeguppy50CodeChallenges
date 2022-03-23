@@ -31,9 +31,10 @@ Show your support and give this repo a ⭐
   
 1. [Overview](https://github.com/seraph776/Codeguppy-50-Code-Challenges#overview)
 2. [Contribute](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contribute)
-3. [Contact](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)
-4. [License](https://github.com/seraph776/Codeguppy-50-Code-Challenges#license)
-5. [Acknowledgements](https://github.com/seraph776/Codeguppy-50-Code-Challenges#acknowledgements)
+3. [Contributors](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contributors)  
+4. [Contact](https://github.com/seraph776/Codeguppy-50-Code-Challenges#contact)
+5. [License](https://github.com/seraph776/Codeguppy-50-Code-Challenges#license)
+6. [Acknowledgements](https://github.com/seraph776/Codeguppy-50-Code-Challenges#acknowledgements)
    
 </details>
 
@@ -47,7 +48,7 @@ These are 50 coding challenges from [Codeguppy.com ](https://codeguppy.com/)
 - Although intended for beginners, advanced users can have fun too
 - Try to solve at least 1 coding challenge per day
 - Any solution that you find is a good solution... we are not looking for the perfect solution
-- All code challenes can be found [here](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/QUESTIONS.md)
+- The complete list of Code Questions can be found [here](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/QUESTIONS.md).  
 - The challenges are designed to be solved with either `Python`, `JavaScript`, or `CPP` language constructs
 
 
@@ -60,6 +61,18 @@ These are 50 coding challenges from [Codeguppy.com ](https://codeguppy.com/)
 <h2 id="contribute">  🤝 Contribute </h2>
 
 Contributions are Welcome! For instructions on how to contribute please read our [Contributing Guidelines](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/CONTRIBUTING.md).
+
+
+
+
+<h2 id="contributors">  🌎 Contributors </h2>
+
+ The following Github users have contributed to this project: 
+
+<a href="https://github.com/seraph776/Codeguppy-50-Code-Challenges/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=seraph776/Codeguppy-50-Code-Challenges" />
+</a>
+
 
 <h2 id="contact"> 📫 Contact </h2>
 
@@ -78,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - [Shields IO](https://shields.io/)
 - [Choose a License](https://choosealicense.com/licenses/mit/)
 - [Codeguppy.com](https://codeguppy.com/)
+- [Simple Icons](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/)
 
 
 <div align="right">
