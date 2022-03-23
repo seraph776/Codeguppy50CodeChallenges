@@ -41,12 +41,11 @@ Show your support and give this repo a ⭐
 
 <h2 id="overview"> 💡 Overview </h2>
 
-These are 50 coding challenges from [Codeguppy.com ](https://codeguppy.com/)
+This repo is collection of code challenges from [Codeguppy.com ](https://codeguppy.com/)
 
-- Although intended for beginners, advanced users can have fun too
-- Try to solve at least 1 coding challenge per day
-- Any solution that you find is a good solution... we are not looking for the perfect solution
 - The complete list of Code Questions can be found [here](https://github.com/seraph776/Codeguppy-50-Code-Challenges/blob/main/QUESTIONS.md).  
+- Although the questions intended for beginners - advanced users can have fun too
+- If you would like to contribute, any solution that you submit is a good solution... It does not have to be a perfect solution
 - The challenges are designed to be solved with either `Python`, `JavaScript`, or `CPP` language constructs
 
 
@@ -86,9 +85,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 <h2 id="acknowledgements">  📢 Acknowledgements </h2>
 
-- [Shields IO](https://shields.io/)
-- [Choose a License](https://choosealicense.com/licenses/mit/)
 - [Codeguppy.com](https://codeguppy.com/)
+- [Choose a License](https://choosealicense.com/licenses/mit/)
+- [Shields IO](https://shields.io/)
 - [Simple Icons](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/)
 
 
