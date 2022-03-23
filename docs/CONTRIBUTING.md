@@ -58,7 +58,7 @@ Javascript/
 
 ### 1. Clone this Repo
 ```
-$ git clone https://github.com/<YOUR-USERNAME>/Codeguppy-50-Code-Challenges.git
+$ git clone https://github.com/<YOUR-USERNAME>/Codeguppy50CodeChallenges.git
 ```
 
 ### 2. Create a Branch
