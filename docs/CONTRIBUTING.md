@@ -25,7 +25,7 @@ To navigate our codebase with confidence, see [the introduction to working in th
 - ✅ Please fill-out and include the [SAMPLE-README.md](https://github.com/seraph776/Codeguppy50CodeChallenges/blob/main/docs/SAMPLE-README.md)  file inside your `username` root directory. 
 - ✅ Save filenames in the follow format: q001, q002 (INCLUDING FILENAME EXTENTION)
 - ✅ Submissions do not have to be in sequencial order. Meaning, you can submit q030, then q001, It doesn't matter.
-- ✅ `Optional Task`: Include `tests` to prove that your program works. Include your unittests in sub-dirctory within your `username` dirctory called `tests`. Again, this is an optional task. See the dirctory structure below for an example.
+- ✅ `Optional Task`: Include `tests` to prove that your program works. Include your unittests in sub-dirctory within your `username` dirctory called `tests`. Again, this is an optional task. See the dirctory structure below for an example:
 
 ### Directory Structure
 
